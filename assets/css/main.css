@@ -3907,3 +3907,8 @@ input, select, textarea {
 			}
 
 		}
+
+	i {
+		display: inline-block;
+		text-indent: 25px;
+	}
